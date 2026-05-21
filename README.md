@@ -11,7 +11,7 @@ Aplikasi Flutter untuk menjelajahi karakter Harry Potter dan sihir-sihir dari AP
 - Snackbar notifikasi untuk login berhasil/gagal
 - Demo credentials:
   - Username: `harrypotter`
-  - Password: `password123`
+  - Password: `haripoah`
 
 ### 2. **Character View & Detail** (20 pts)
 
